@@ -12,18 +12,11 @@ The target audience for this game is mainly casual players who enjoy simple plat
 
 ## User Profiles 
 ## User Requirements 
-The user requirements focus on what the player should be able to do in the game.
-
-The player should be able to move left and right using the keyboard. The player should also be able to jump to avoid obstacles or reach platforms.
-
-The player should be able to collect coins to increase their score. If the player hits an enemy or obstacle the game should end.
-
-Example user story:
-
-As a player, I want to jump over obstacles so that I can continue through the level without losing.
+The user requirements focus on what the player should be able to do in the game. The player should be able to move left and right using the keyboard. The player should also be able to jump to avoid obstacles or reach platforms. The player should be able to collect coins to increase their score. If the player hits an enemy or obstacle the game should end. Example user story: As a player, I want to jump over obstacles so that I can continue through the level without losing.
 ## System Requirements 
 The system needs to support the features required for the game to function properly. The system must detect keyboard input so the player can control the character. It must also handle gravity and jumping mechanics so the player can move realistically. Collision detection is required so the game can detect when the player touches platforms, coins or enemies. The system must also update the score and display the game on the screen in real time.
 ## Game Rules & Mechanics 
+The game is a side-scrolling platform game where the player moves through a level from left to right. The player can move left and right and jump between platforms. The aim of the game is to reach the end of the level while avoiding enemies and obstacles. Coins can be collected during the level to increase the player’s score. If the player touches an enemy the game will end and they will have to restart the level.
 ## Development Strategy
 ## Scrum Backlog
 ## Design & Storyboard Mock Up 
