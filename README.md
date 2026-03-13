@@ -8,6 +8,7 @@ This project is a 2D platformer game inspired by classic games like Mario. The a
 The development of the project is split into several stages. First, the idea for the game is planned and researched. This includes looking at other platform games and deciding what mechanics to include. Next is the design stage where the main features of the game are planned. This includes player controls, enemies, levels and game rules. After that the development stage begins. During this stage the actual code for the game is written and features are added step by step. Once the main features are working, the game will be tested to find bugs or issues. Any problems will be fixed before the final version is demonstrated.
 
 ## Target Audiance 
+The target audience for this game is mainly casual players who enjoy simple platform style games. The game is designed to be easy to understand and play. Because the controls are simple, the game can be played by people with different levels of gaming experience.
 
 ## User Profiles 
 ## User Requirements 
