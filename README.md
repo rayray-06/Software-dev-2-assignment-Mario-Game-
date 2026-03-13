@@ -22,6 +22,7 @@ Example user story:
 
 As a player, I want to jump over obstacles so that I can continue through the level without losing.
 ## System Requirements 
+The system needs to support the features required for the game to function properly. The system must detect keyboard input so the player can control the character. It must also handle gravity and jumping mechanics so the player can move realistically. Collision detection is required so the game can detect when the player touches platforms, coins or enemies. The system must also update the score and display the game on the screen in real time.
 ## Game Rules & Mechanics 
 ## Development Strategy
 ## Scrum Backlog
