@@ -12,6 +12,15 @@ The target audience for this game is mainly casual players who enjoy simple plat
 
 ## User Profiles 
 ## User Requirements 
+The user requirements focus on what the player should be able to do in the game.
+
+The player should be able to move left and right using the keyboard. The player should also be able to jump to avoid obstacles or reach platforms.
+
+The player should be able to collect coins to increase their score. If the player hits an enemy or obstacle the game should end.
+
+Example user story:
+
+As a player, I want to jump over obstacles so that I can continue through the level without losing.
 ## System Requirements 
 ## Game Rules & Mechanics 
 ## Development Strategy
