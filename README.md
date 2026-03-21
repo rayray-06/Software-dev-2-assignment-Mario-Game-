@@ -44,4 +44,16 @@ Checking the game works correctly and fixing bugs.
 Preparing the final version for demonstration.
 
 ---
+## 3. Game Concept / Story
+
+The player controls a character that must travel through a platform level filled with obstacles and enemies. The aim is to reach the end of the level while collecting coins and avoiding hazards.
+
+The difficulty increases through enemy placement and platform positioning.
+
+---
+## 4. Target Audience
+
+The game is aimed at casual players who enjoy simple and easy-to-play platform games. The controls are basic so the game can be played by people with different levels of experience.
+
+---
 
