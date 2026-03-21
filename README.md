@@ -26,3 +26,4 @@ This project is a 2D platformer game inspired by classic games like Mario. The a
 This project demonstrates the full software development process including planning, design, implementation and testing. The focus is mainly on building the core mechanics of a platformer such as movement, jumping and collision detection.
 
 ---
+
