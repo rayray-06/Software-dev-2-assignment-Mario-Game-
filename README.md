@@ -56,4 +56,32 @@ The difficulty increases through enemy placement and platform positioning.
 The game is aimed at casual players who enjoy simple and easy-to-play platform games. The controls are basic so the game can be played by people with different levels of experience.
 
 ---
+## 5. User Profiles
+---
+## 6. User Requirements
+
+- The player should be able to move left and right  
+- The player should be able to jump  
+- The player should be able to collect coins  
+- The player should avoid enemies  
+- The player should be able to restart after losing  
+
+**User Stories**
+
+- As a player, I want to jump so that I can reach platforms  
+- As a player, I want to collect coins so that I can increase my score  
+- As a player, I want to avoid enemies so that I don’t lose the game  
+
+---
+
+## 7. System Requirements
+
+- The system must detect keyboard input  
+- The system must implement gravity and jumping  
+- The system must detect collisions  
+- The system must update and display the score  
+- The system must render the game in real time  
+- The system must reset the game when the player loses  
+
+---
 
