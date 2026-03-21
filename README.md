@@ -26,4 +26,22 @@ This project is a 2D platformer game inspired by classic games like Mario. The a
 This project demonstrates the full software development process including planning, design, implementation and testing. The focus is mainly on building the core mechanics of a platformer such as movement, jumping and collision detection.
 
 ---
+## 2. Project Breakdown (SDLC)
+
+**Planning**  
+Researching platformer games and deciding on features.
+
+**Design**  
+Planning gameplay, characters, level layout and system structure.
+
+**Development**  
+Implementing the game features step by step.
+
+**Testing**  
+Checking the game works correctly and fixing bugs.
+
+**Deployment / Demo**  
+Preparing the final version for demonstration.
+
+---
 
