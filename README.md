@@ -19,3 +19,10 @@
 - [Evaluation](#16-evaluation)
 - [References](#17-references)
 
+## 1. Project Overview
+
+This project is a 2D platformer game inspired by classic games like Mario. The aim is to create a simple game where the player moves through a level, avoids enemies and collects coins.
+
+This project demonstrates the full software development process including planning, design, implementation and testing. The focus is mainly on building the core mechanics of a platformer such as movement, jumping and collision detection.
+
+---
