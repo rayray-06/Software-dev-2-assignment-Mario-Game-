@@ -21,34 +21,34 @@
 
 ## 1. Project Overview
 
-This project is a 2D platformer game inspired by classic games like Mario. The aim is to create a simple game where the player moves through a level, avoids enemies and collects coins.
+This project is a 2D platformer that draws inspiration from classic games like Mario. The goal is to develop a straightforward game in which the player advances through a level, avoids obstacles, and gathers coins.
 
-This project demonstrates the full software development process including planning, design, implementation and testing. The focus is mainly on building the core mechanics of a platformer such as movement, jumping and collision detection.
+The entire software development process—including planning, design, implementation, and testing—is illustrated in this project. The primary goal is to develop a platformer's fundamental mechanics, including movement, jumping, and collision detection.
 
 ---
 ## 2. Project Breakdown (SDLC)
 
 **Planning**  
-Researching platformer games and deciding on features.
+Researched platformer games and decided on core features.
 
 **Design**  
-Planning gameplay, characters, level layout and system structure.
+Planned player movement, level layout and game mechanics.
 
 **Development**  
-Implementing the game features step by step.
+Implemented the game using Unity and C# scripts.
 
 **Testing**  
-Checking the game works correctly and fixing bugs.
+Tested gameplay and fixed bugs such as collision issues.
 
-**Deployment / Demo**  
-Preparing the final version for demonstration.
+**Deployment**  
+Prepared the final version for submission.
 
 ---
-## 3. Game Concept / Story
+## 3. Game Concept
 
-The player controls a character that must travel through a platform level filled with obstacles and enemies. The aim is to reach the end of the level while collecting coins and avoiding hazards.
+The game is a side-scrolling platformer where the player must move from the start of the level to the end. The player must jump across platforms and avoid falling or hitting obstacles.
 
-The difficulty increases through enemy placement and platform positioning.
+The game is inspired by retro platform games but uses original assets and simple design.
 
 ---
 ## 4. Target Audience
