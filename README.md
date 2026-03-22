@@ -76,9 +76,11 @@ Prepared the final version for submission.
 ---
 ## 3. Game Concept
 
-The game is a side-scrolling platformer where the player must move from the start of the level to the end. The player must jump across platforms and avoid falling or hitting obstacles.
+The game is a 2D side-scrolling platformer that draws inspiration from vintage video games. A character that the player controls must move left and right, jump across platforms, and stay upright in order to complete a level.
 
-The game is inspired by retro platform games but uses original assets and simple design.
+The goal of the game is to complete the level while avoiding obstacles. By requiring more accurate jumps and better timing, the level is meant to progressively test the player.
+
+Instead of emphasizing intricate features, the game focuses on fundamental platformer mechanics. This includes responsive jumping, fluid motion, and accurate collision detection. To guarantee that the game is both practical and simple to comprehend, the overall design is kept straightforward.
 
 ---
 ## 4. Target Audience
