@@ -85,7 +85,13 @@ Instead of emphasizing intricate features, the game focuses on fundamental platf
 ---
 ## 4. Target Audience
 
-The game is aimed at casual players who enjoy simple and easy-to-play platform games. The controls are basic so the game can be played by people with different levels of experience.
+Casual gamers who like easy-to-play games are the target market for this game. It is appropriate for players with little to no gaming experience because the controls are simple to learn.
+
+Because it replicates the fundamental mechanics of classic games, it is also appropriate for players who like retro-style platformers.
+
+The target audience consists of:Young players and students searching for an easy game to play ,Casual players who like quick, simple games  and Players who like challenges based on platforms  
+
+The game's quick gameplay, straightforward goal, and low level of complexity make it suitable for a broad spectrum of players.
 
 ---
 ## 5. User Profiles
