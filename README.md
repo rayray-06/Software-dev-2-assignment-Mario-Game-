@@ -96,6 +96,8 @@ The game's quick gameplay, straightforward goal, and low level of complexity mak
 ---
 ## 5. User Profiles
 <img width="544" height="206" alt="image" src="https://github.com/user-attachments/assets/94a1dda8-71c2-40fa-9546-465a8e5bb069" />
+<img width="410" height="178" alt="image" src="https://github.com/user-attachments/assets/0078ce91-df44-40a5-8717-05220fdcecaa" />
+
 
 ---
 ## 6. User Requirements
