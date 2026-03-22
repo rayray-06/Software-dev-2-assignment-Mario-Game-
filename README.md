@@ -99,47 +99,33 @@ The game is a side-scrolling platformer where the player moves from left to righ
 
 ## 9. Game Design
 
-### Characters
+### Player
 
-**Player**  
-Controlled by the user. Can move and jump.
+The player is controlled by the user and can move left, right and jump.
 
-**Enemy**  
-Moves along platforms and acts as an obstacle.
+### Environment
 
-**Coin**  
-Collectible item that increases score.
-
----
-
-### Environment & Level Design
-
-The game takes place in a 2D environment made up of platforms at different heights.
-
-The player starts on the left and progresses to the right. Platforms require the player to jump between them while avoiding enemies.
-
----
+The level consists of platforms placed at different heights. The player must navigate across them to progress.
 
 ### Gameplay Loop
 
-Player moves → avoids enemies → collects coins → increases score → reaches end → repeats
+Move → Jump → Avoid falling → Reach end → Restart
 
 ---
 
 ## 10. Technology Used
 
-**Programming Language:** Python  
-**Library:** Pygame  
+**Game Engine:** Unity  
+**Programming Language:** C#  
 
 **Tools:**
-- Visual Studio Code  
+- Unity Editor  
+- Visual Studio  
 - GitHub  
-- Git  
 
-Pygame was chosen because it is simple to use and suitable for creating 2D games with basic graphics and input handling.
+Unity was chosen because it provides built-in physics and tools for 2D game development, making it easier to implement core mechanics.
 
 ---
-
 ## 11. Development Strategy
 
 The project is developed using an iterative approach.
