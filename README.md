@@ -26,19 +26,49 @@ This project is a 2D platformer that draws inspiration from classic games like M
 The entire software development process—including planning, design, implementation, and testing—is illustrated in this project. The primary goal is to develop a platformer's fundamental mechanics, including movement, jumping, and collision detection.
 
 ---
-## 2. Project Breakdown (SDLC)
+## 2. Project Breakdown (waterfall)
 
 **Planning**  
-Researched platformer games and decided on core features.
+In order to comprehend common mechanics like movement, jumping, and level progression, research into current 2D platformer games was done during the planning phase. This led to the decision to develop a straightforward platformer that prioritizes basic gameplay over sophisticated features.
+
+The primary characteristics noted were:- The player's left and right movements
+Gravity-driven jumping
+Designing at the platform level
+Basic detection of collisions
+
+This phase assisted in defining the project's scope and guaranteed that it could be completed within the allotted time.
 
 **Design**  
-Planned player movement, level layout and game mechanics.
+The game's structure was planned during the design stage. This included the layout of the level and how the player would engage with the surroundings.
+
+Among the important design choices were:Using a side-scrolling design
+Setting up platforms at varying heights to necessitate leaping
+Maintaining responsive and straightforward controls
+Creating a level with a distinct beginning and ending
 
 **Development**  
-Implemented the game using Unity and C# scripts.
+The development stage involved building the game in Unity using C# scripts. Work was completed in stages to allow testing after each feature was added.
+
+The order of implementation was:
+1. Setting up the Unity project and scene  
+2. Creating the player object  
+3. Implementing movement controls  
+4. Adding jumping using Unity physics  
+5. Creating platforms with colliders  
+6. Implementing collision detection  
+7. Adding a camera that follows the player  
+8. Designing the level layout  
+
+This step-by-step approach made it easier to identify and fix issues early.
 
 **Testing**  
-Tested gameplay and fixed bugs such as collision issues.
+Testing was carried out throughout development rather than only at the end. Each feature was tested after implementation to make sure it worked correctly.
+
+Examples of testing included:
+- Checking if the player could move smoothly  
+- Ensuring jumping felt natural and responsive  
+- Verifying the player did not fall through platforms  
+- Testing level navigation  
 
 **Deployment**  
 Prepared the final version for submission.
