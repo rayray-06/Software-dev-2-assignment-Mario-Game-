@@ -3,7 +3,7 @@
 
 - [Project Overview](#1-project-overview)
 - [Project Breakdown ](#2-project-breakdown)
-- [Game Concept / Story](#3-game-concept)
+- [Game Concept](#3-game-concept)
 - [Target Audience](#4-target-audience)
 - [User Profiles](#5-user-profiles)
 - [User Requirements](#6-user-requirements)
