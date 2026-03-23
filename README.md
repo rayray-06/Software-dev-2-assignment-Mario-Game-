@@ -2,7 +2,7 @@
 ## Table of Contents
 
 - [Project Overview](#1-project-overview)
-- [Project Breakdown (SDLC)](#2-project-breakdown-)
+- [Project Breakdown ](#2-project-breakdown-)
 - [Game Concept / Story](#3-game-concept--story)
 - [Target Audience](#4-target-audience)
 - [User Profiles](#5-user-profiles)
