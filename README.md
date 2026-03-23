@@ -2,7 +2,7 @@
 ## Table of Contents
 
 - [Project Overview](#1-project-overview)
-- [Project Breakdown (SDLC)](#2-project-breakdown-sdlc)
+- [Project Breakdown (SDLC)](#2-project-breakdown-)
 - [Game Concept / Story](#3-game-concept--story)
 - [Target Audience](#4-target-audience)
 - [User Profiles](#5-user-profiles)
@@ -26,7 +26,7 @@ This project is a 2D platformer that draws inspiration from classic games like M
 The entire software development process—including planning, design, implementation, and testing—is illustrated in this project. The primary goal is to develop a platformer's fundamental mechanics, including movement, jumping, and collision detection.
 
 ---
-## 2. Project Breakdown (waterfall)
+## 2. Project Breakdown
 
 **Planning**  
 In order to comprehend common mechanics like movement, jumping, and level progression, research into current 2D platformer games was done during the planning phase. This led to the decision to develop a straightforward platformer that prioritizes basic gameplay over sophisticated features.
@@ -178,8 +178,17 @@ Features are added step by step starting with basic movement, then jumping, foll
 
 ## 12. Scrum Backlog
 
-| Task | Priority | Description | Status |
-|-----|-----|-----|-----|
+| Feature | Priority | Description | Test Criteria |
+|--------|----------|-------------|---------------|
+| Player Movement | High | Allow the player to move left and right using keyboard input | Player moves smoothly left/right when keys are pressed |
+| Jump Mechanic | High | Implement jumping using gravity and physics | Player jumps and lands naturally without floating |
+| Platform Collision | High | Ensure player can stand on platforms without falling through | Player lands on platforms and does not pass through them |
+| Camera Follow | Medium | Camera follows the player as they move through the level | Camera tracks player smoothly without lag |
+| Level Design | Medium | Create platforms at different heights for navigation | Player can move across the level using jumps |
+| Game Restart | High | Allow the game to restart after player falls or loses | Game resets correctly when player loses |
+| Testing & Debugging | High | Identify and fix bugs in movement and collisions | No major bugs during gameplay |
+| (Optional) Coins | Medium | Add collectible items to increase engagement | Coins disappear when collected |
+| (Optional) Enemy | Medium | Add a simple enemy as an obstacle | Player loses or resets on contact with enemy |
 
 
 ---
