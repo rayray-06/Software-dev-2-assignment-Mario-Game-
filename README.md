@@ -228,11 +228,11 @@ Evaluated overall project progress and focused on documentation, testing and fin
 
 | Test | Expected Result | Result |
 |-----|-----|-----|
-Move left/right | Player moves correctly | Pass |
-Jump | Player jumps and lands | Pass |
-Collect coin | Score increases | Pass |
-Hit enemy | Game over triggered | Pass |
-Reach end | Level completes | Pass |
+Move left/right | Player moves correctly | N/A|
+Jump | Player jumps and lands | N/A |
+Collect coin | Score increases | N/A |
+Hit enemy | Game over triggered | N/A|
+Reach end | Level completes | N/A |
 
 ---
 
