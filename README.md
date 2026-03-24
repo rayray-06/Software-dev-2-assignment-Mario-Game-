@@ -108,12 +108,6 @@ The game's quick gameplay, straightforward goal, and low level of complexity mak
 - The player should avoid enemies  
 - The player should be able to restart after losing  
 
-**User Stories**
-
-- As a player, I want to jump so that I can reach platforms  
-- As a player, I want to collect coins so that I can increase my score  
-- As a player, I want to avoid enemies so that I don’t lose the game  
-
 ---
 
 ## 7. System Requirements
