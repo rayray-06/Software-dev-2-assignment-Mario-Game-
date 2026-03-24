@@ -1,4 +1,4 @@
-# Software-dev-2-assignment-Mario-Game-
+# Software-dev-2-assignment-2d platfromer game-
 ## Table of Contents
 
 - [Project Overview](#1-project-overview)
