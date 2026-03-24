@@ -1,4 +1,4 @@
-# Software-dev-2-assignment-2d platfromer game-
+# Software-dev-2-assignment-2d platformer game-
 ## Table of Contents
 
 - [Project Overview](#1-project-overview)
