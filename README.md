@@ -164,9 +164,7 @@ Unity was chosen because it provides built-in physics and tools for 2D game deve
 ---
 ## 11. Development Strategy
 
-The project is developed using an iterative approach.
-
-Features are added step by step starting with basic movement, then jumping, followed by platforms, enemies and scoring. This allows testing at each stage.
+The project follows an iterative development strategy based on Agile principles. This approach was chosen because it allows the game to be developed in small, manageable stages while continuously reviewing progress.Instead of attempting to build the entire game at once, the development was broken down into smaller features such as movement, jumping and collision detection. Each feature would be planned, implemented and then tested before moving on to the next stage. This reduces the risk of major errors and makes debugging easier.A Scrum-style workflow was used to organise tasks. Features were added to a backlog and prioritised based on importance. Core mechanics such as player movement and jumping were given the highest priority, while additional features like coins and enemies were considered lower priority and planned for later stages.This structured approach ensured that the most important parts of the game were focused on first. It also allowed flexibility, meaning changes could be made if issues were identified during development.Version control using GitHub was used to manage the project. This allowed progress to be tracked over time and ensured that different versions of the work could be saved and reviewed.
 
 ---
 
@@ -181,8 +179,7 @@ Features are added step by step starting with basic movement, then jumping, foll
 | Level Design | Medium | Create platforms at different heights for navigation | Player can move across the level using jumps |
 | Game Restart | High | Allow the game to restart after player falls or loses | Game resets correctly when player loses |
 | Testing & Debugging | High | Identify and fix bugs in movement and collisions | No major bugs during gameplay |
-| (Optional) Coins | Medium | Add collectible items to increase engagement | Coins disappear when collected |
-| (Optional) Enemy | Medium | Add a simple enemy as an obstacle | Player loses or resets on contact with enemy |
+
 
 
 ---
@@ -213,13 +210,16 @@ Testing and bug fixing.
 
 ### Development Meetings
 
+### Development Meetings
+
 **Meeting 1**  
- 
+Discussed overall game idea and core features. Decided to focus on a simple platformer with movement and jumping.
 
 **Meeting 2**  
- 
+Reviewed progress and identified challenges with implementing physics and collision detection. Planned next steps for improving gameplay.
 
 **Meeting 3**  
+Evaluated overall project progress and focused on documentation, testing and final improvements.
 
 
 ---
@@ -239,26 +239,15 @@ Reach end | Level completes | Pass |
 ## 15. Challenges & Solutions
 
 One challenge was implementing collision detection between the player and platforms. This caused issues where the player would fall through objects.
-
-This was fixed by adjusting collision logic and testing different values.
-
-Another challenge was getting the jump mechanics to feel smooth, which required adjusting gravity and jump strength.
+Another problem was time along with. getting the jump mechanics to feel smooth, which required adjusting gravity and jump strength.
 
 ---
 
 ## 16. Evaluation
 
-The project successfully demonstrates the core mechanics of a platform game including movement, jumping and collision detection.
-
-The main strength is that the game is functional and demonstrates key programming concepts.
-
-A limitation is that the game is quite simple and only includes one level. In the future, more levels and improved graphics could be added.
+The project successfully demonstrates the core mechanics of a platform game including movement, jumping and collision detection.The main strength is that the game is functional and demonstrates key programming concepts.A limitation is that the game is quite simple and only includes one level. In the future, more levels and improved graphics could be added.
 
 ---
 
-## 17. References
 
-- Research into platform games such as Mario  
-- Online tutorials on 2D game development  
-- Pygame documentation  
 
